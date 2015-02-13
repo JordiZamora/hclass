@@ -1,0 +1,13 @@
+Package: hclass
+Title: Classification basics.
+Version: 0.0.1
+Author: Jordi Zamora-Munt <jordi.zm@gmail.com>
+Maintainer: Jordi Zamora-Munt <jordi.zm@gmail.com>
+Description: Library with k-Nearest Neighbour classifiers.
+License: GPL-2
+Date: 2015-02-04
+Type: Package
+Depends: R (>= 2.15.0), assertthat
+URL: https://github.com/JordiZamora/hclass
+BugReports: https://github.com/JordiZamora/hclass/issues
+BuildKeepEmpty: TRUE
